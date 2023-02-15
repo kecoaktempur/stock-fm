@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Padding(
-                  padding: EdgeInsets.fromLTRB(16, 15, 0, 0),
+                  padding: EdgeInsets.fromLTRB(20, 15, 15, 10),
                   child: Text(
                     "Popular Recently",
                     style: TextStyle(
